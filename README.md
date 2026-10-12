@@ -4,7 +4,7 @@
 This portfolio project simulates a healthcare claims payment workflow. It models members, providers, claims, claim-line details, payments, and payment allocations so that claims can be reconciled against disbursements and exceptions can be investigated.
 
 **Database:** PostgreSQL  
-**Skills demonstrated:** relational modeling, primary/foreign keys, CTEs, joins, window functions, duplicate detection, reconciliation, exception reporting, auditability, and data-quality checks.
+**Skills demonstrated:** Relational database modeling, primary and foreign key constraints, SQL joins, Common Table Expressions (CTEs), window functions, duplicate claim detection, claims-to-payment reconciliation, exception reporting, audit trail validation, and data quality checks.
 
 > **Important:** This repository uses synthetic data only. It contains no real patient information and is not intended for clinical, billing, or production use.
 
